@@ -1,0 +1,10 @@
+Part A. 
+Our two investigation goals were:
+1. Determine the store locations with the highest revenue
+2. What time of day has the highest sales
+
+Part D.
+1. With the first goal it was disovered that Redmond and Renton had the highest revenue with only a $25 difference.
+ The Redmond location came out with the highest of $1082.
+
+2. With the second goal, it was discovered that the time of the day that made the highest sales is at midnight 24:00pm - 1:00am with total sales of $436 which is almost double the amount of sales from the second highest sales which was at 2:00pm - 3:00pm with total sales of $252. Based on our discovery of this buying pattern, it indicates that our customers are most active at midnight and therefore, advertising during this time will help drive more sales.
